@@ -1,0 +1,1392 @@
+issue_month,industry,similarity,bond_sym_id
+2005-01,Banking,5.0,1
+2005-01,Business Services,0.0,1
+2005-01,Candy  &&  Soda,4.875,1
+2005-01,Chemicals,5.1,1
+2005-01,Communication,5.75,1
+2005-01,Construction,5.375,1
+2005-01,Construction Materials,8.75,1
+2005-01,Healthcare,9.25,1
+2005-01,Insurance,5.26,5
+2005-01,Pharmaceutical Products,5.25,1
+2005-01,Printing and Publishing,5.125,1
+2005-01,Real Estate,6.5,1
+2005-01,Trading,3.2182015810276683,3
+2005-01,Utilities,5.25,1
+2005-02,Banking,5.108383685800605,3
+2005-02,Business Supplies,9.25,1
+2005-02,Communication,5.527551020408163,2
+2005-02,Construction,5.504473386183466,3
+2005-02,Electrical Equipment,0.5,1
+2005-02,Insurance,4.938888888888889,9
+2005-02,Pharmaceutical Products,4.75,1
+2005-02,Rubber and Plastic Products,7.0,1
+2005-02,Shipping Containers,5.625,1
+2005-02,Steelworks Etc,7.25,1
+2005-02,Trading,5.003039138943248,2
+2005-02,Transportation,5.125,1
+2005-02,Utilities,4.9,1
+2005-03,Agriculture,7.5,1
+2005-03,Business Services,5.875,1
+2005-03,Communication,8.625,1
+2005-03,Computers,5.0,1
+2005-03,Construction,5.5,1
+2005-03,Healthcare,9.875,1
+2005-03,Insurance,4.7555791686127975,10
+2005-03,Machinery,4.75,1
+2005-03,Petroleum and Natural Gas,5.422591262716936,9
+2005-03,Precious Metals,5.875,1
+2005-03,Printing and Publishing,5.0,1
+2005-03,Steelworks Etc,7.5,1
+2005-03,Trading,5.403742937853107,3
+2005-03,Transportation,6.0465,2
+2005-03,Utilities,5.406578448275862,6
+2005-04,Aircraft,5.1375,2
+2005-04,Construction,5.6,1
+2005-04,Healthcare,6.125,1
+2005-04,Insurance,6.11070239680426,6
+2005-04,Petroleum and Natural Gas,5.3,1
+2005-04,Pharmaceutical Products,2.875,1
+2005-04,Trading,5.642917675544794,6
+2005-05,Automobiles and Trucks,8.625,1
+2005-05,Banking,5.059340148698885,3
+2005-05,Business Services,4.95,1
+2005-05,Candy  &&  Soda,5.25,2
+2005-05,Communication,10.375,1
+2005-05,Insurance,5.885082048731974,10
+2005-05,Measuring and Control Equipment,6.125,1
+2005-05,Petroleum and Natural Gas,5.795677694770545,4
+2005-05,Pharmaceutical Products,2.425,2
+2005-05,Trading,6.0,1
+2005-05,Transportation,5.614999999999999,2
+2005-05,Utilities,6.0,1
+2005-06,Business Services,5.84364406779661,2
+2005-06,Communication,5.489299610894942,3
+2005-06,Construction,5.952156334231806,3
+2005-06,Construction Materials,4.8,1
+2005-06,Consumer Goods,5.0,1
+2005-06,Electrical Equipment,6.3028109028960815,2
+2005-06,Entertainment,6.625,1
+2005-06,Insurance,5.107048929663609,12
+2005-06,Machinery,2.375,1
+2005-06,Pharmaceutical Products,3.25,1
+2005-06,"Restaurants, Hotels, Motels",6.979525862068965,2
+2005-06,Retail,4.5,1
+2005-06,Steelworks Etc,5.85,2
+2005-06,Trading,3.7598943196829593,3
+2005-06,Transportation,6.476544622425629,2
+2005-06,Utilities,5.553881766381767,6
+2005-07,Agriculture,5.5,1
+2005-07,Banking,4.835281065088758,3
+2005-07,Computers,4.75,1
+2005-07,Entertainment,6.375,1
+2005-07,Food Products,4.65,1
+2005-07,Insurance,5.366666666666666,3
+2005-07,Other,6.086,1
+2005-07,Petroleum and Natural Gas,2.25,1
+2005-07,Utilities,5.422727272727273,2
+2005-08,Agriculture,5.5,1
+2005-08,Banking,3.3956612478031634,4
+2005-08,Business Supplies,6.062088274044796,3
+2005-08,Chemicals,6.0,1
+2005-08,Communication,5.954819277108434,4
+2005-08,Computers,6.25,1
+2005-08,Construction,6.425251677852349,2
+2005-08,Construction Materials,3.75,1
+2005-08,Consumer Goods,5.0,1
+2005-08,Electrical Equipment,4.75,1
+2005-08,Entertainment,6.75,1
+2005-08,Food Products,4.85,1
+2005-08,Healthcare,1.875,1
+2005-08,Insurance,5.525,2
+2005-08,Personal Services,7.875,1
+2005-08,Petroleum and Natural Gas,5.375,2
+2005-08,Pharmaceutical Products,2.25,1
+2005-08,Printing and Publishing,5.299015009380863,4
+2005-08,"Restaurants, Hotels, Motels",6.0,1
+2005-08,Retail,5.25,1
+2005-08,Trading,5.25,1
+2005-08,Utilities,6.1215374841168995,5
+2005-08,Wholesale,6.0,1
+2005-09,Banking,5.35,1
+2005-09,Business Services,6.0,1
+2005-09,Candy  &&  Soda,5.0,1
+2005-09,Computers,8.25,2
+2005-09,Electrical Equipment,5.0,1
+2005-09,Food Products,5.375,1
+2005-09,Healthcare,6.9375,2
+2005-09,Insurance,4.645403259506895,11
+2005-09,Machinery,5.3,1
+2005-09,Non-Metallic and Industrial Metal Mining,5.75,2
+2005-09,Petroleum and Natural Gas,6.976190476190476,2
+2005-09,Pharmaceutical Products,3.25,1
+2005-09,Rubber and Plastic Products,7.875,1
+2005-09,"Shipbuilding, Railroad Equipment",8.375,1
+2005-09,Trading,5.281920903954802,6
+2005-09,Wholesale,5.375,1
+2005-10,Banking,1.8151624548736462,3
+2005-10,Business Services,2.75,1
+2005-10,Chemicals,6.0,1
+2005-10,Construction,6.875,1
+2005-10,Electrical Equipment,2.25,2
+2005-10,Insurance,5.641316894018888,5
+2005-10,Machinery,5.383191747572815,3
+2005-10,Measuring and Control Equipment,5.0,1
+2005-10,Petroleum and Natural Gas,4.875,1
+2005-10,Retail,5.25,2
+2005-10,Rubber and Plastic Products,3.9375,1
+2005-10,Trading,5.572608695652174,2
+2005-10,Utilities,6.4369168356997974,2
+2005-11,Banking,5.501,2
+2005-11,Business Services,5.25,1
+2005-11,Communication,6.175,2
+2005-11,Construction,5.6,1
+2005-11,Construction Materials,5.875,1
+2005-11,Consumer Goods,1.228242857142857,1
+2005-11,Electrical Equipment,5.25,1
+2005-11,Insurance,4.004347629714286,7
+2005-11,Medical Equipment,6.625,2
+2005-11,Petroleum and Natural Gas,5.4774247491638794,3
+2005-11,Pharmaceutical Products,5.0,2
+2005-11,Retail,4.25,1
+2005-11,Trading,5.7974312210200925,3
+2005-12,Banking,6.490399750390015,4
+2005-12,Business Supplies,6.625,2
+2005-12,Entertainment,6.625,1
+2005-12,Food Products,5.2,1
+2005-12,Healthcare,5.625,1
+2005-12,Insurance,5.341564885496183,4
+2005-12,Personal Services,7.625,1
+2005-12,Petroleum and Natural Gas,6.5,1
+2005-12,Retail,6.875,1
+2005-12,Trading,5.244866071428572,3
+2005-12,Utilities,6.875,1
+2005-12,Wholesale,5.85,1
+2006-01,Agriculture,8.875,1
+2006-01,Automobiles and Trucks,8.726744186046512,2
+2006-01,Beer  &&  Liquor,5.625,2
+2006-01,Business Services,6.75,1
+2006-01,Business Supplies,5.75,2
+2006-01,Chemicals,6.625,1
+2006-01,Electrical Equipment,6.903083700440528,3
+2006-01,Insurance,5.901214574898786,8
+2006-01,Non-Metallic and Industrial Metal Mining,6.9375,2
+2006-01,Petroleum and Natural Gas,5.85,1
+2006-01,Pharmaceutical Products,6.375,1
+2006-01,Textiles,6.125,1
+2006-01,Trading,5.55695652173913,2
+2006-01,Utilities,5.625,1
+2006-02,Agriculture,5.5,1
+2006-02,Business Services,7.625,1
+2006-02,Chemicals,4.51626234413965,2
+2006-02,Communication,5.55,1
+2006-02,Computers,5.5,1
+2006-02,Healthcare,6.5,1
+2006-02,Insurance,5.799999999999999,1
+2006-02,Machinery,8.875,1
+2006-02,Medical Equipment,4.75,1
+2006-02,Petroleum and Natural Gas,5.5,1
+2006-02,Pharmaceutical Products,3.5159465020576133,3
+2006-02,Real Estate,7.5,1
+2006-02,Retail,6.375,1
+2006-02,Trading,5.697470817120623,2
+2006-02,Transportation,5.0,1
+2006-02,Utilities,7.3125,2
+2006-02,Wholesale,1.75,1
+2006-03,Aircraft,5.55,2
+2006-03,Automobiles and Trucks,4.25,2
+2006-03,Banking,5.927477477477477,2
+2006-03,Beer  &&  Liquor,5.75,1
+2006-03,Business Services,5.883090379008746,3
+2006-03,Communication,6.071969696969697,3
+2006-03,Computers,6.4,1
+2006-03,Food Products,6.6,1
+2006-03,Healthcare,6.347,2
+2006-03,Insurance,5.816592086669807,10
+2006-03,Machinery,6.125,1
+2006-03,Petroleum and Natural Gas,5.875,2
+2006-03,Pharmaceutical Products,1.25,1
+2006-03,Retail,5.4,1
+2006-03,Shipping Containers,6.625,1
+2006-03,Textiles,2.25,1
+2006-03,Trading,3.046255112219451,4
+2006-03,Utilities,5.65,1
+2006-04,Chemicals,4.0,1
+2006-04,Construction,6.934003496503497,2
+2006-04,Electrical Equipment,2.3640939597315436,2
+2006-04,Entertainment,6.8125,2
+2006-04,Healthcare,6.125,1
+2006-04,Insurance,6.402957947255881,6
+2006-04,Medical Equipment,1.625,1
+2006-04,Pharmaceutical Products,1.325,2
+2006-04,"Restaurants, Hotels, Motels",6.25,1
+2006-04,Trading,5.644512195121951,2
+2006-04,Utilities,5.001994680851064,2
+2006-04,Wholesale,6.35,1
+2006-05,Aircraft,6.05,1
+2006-05,Banking,6.5,1
+2006-05,Business Services,0.020833333333333332,2
+2006-05,Chemicals,7.125,1
+2006-05,Communication,6.85257457846952,5
+2006-05,Computers,1.0,1
+2006-05,Construction,6.5,1
+2006-05,Consumer Goods,1.228242857142857,1
+2006-05,Electrical Equipment,9.211805555555555,2
+2006-05,Food Products,7.0,1
+2006-05,Healthcare,2.0,1
+2006-05,Insurance,6.389646869983949,3
+2006-05,Machinery,2.5,1
+2006-05,Measuring and Control Equipment,2.875,1
+2006-05,Petroleum and Natural Gas,7.173859126984127,2
+2006-05,Pharmaceutical Products,5.87001329787234,2
+2006-05,Printing and Publishing,7.375,2
+2006-05,"Shipbuilding, Railroad Equipment",2.375,1
+2006-05,Trading,6.05,1
+2006-05,Transportation,6.0,2
+2006-05,Utilities,6.273598130841122,3
+2006-06,Agriculture,2.25,2
+2006-06,Aircraft,6.545,2
+2006-06,Banking,2.2850129032258066,3
+2006-06,Business Services,1.0,1
+2006-06,Chemicals,6.0,1
+2006-06,Construction,6.875,1
+2006-06,Consumer Goods,6.5,1
+2006-06,Healthcare,7.125,1
+2006-06,Insurance,6.367125442390877,10
+2006-06,Measuring and Control Equipment,3.75,1
+2006-06,Medical Equipment,6.4,1
+2006-06,Personal Services,6.25,1
+2006-06,Petroleum and Natural Gas,7.25,2
+2006-06,Pharmaceutical Products,2.25,1
+2006-06,"Restaurants, Hotels, Motels",6.2,1
+2006-06,Retail,4.637301587301587,2
+2006-06,"Shipbuilding, Railroad Equipment",3.875,1
+2006-06,Trading,6.3,1
+2006-06,Utilities,6.375502008032129,2
+2006-06,Wholesale,8.125,1
+2006-07,Apparel,8.875,1
+2006-07,Banking,1.1099033333333332,1
+2006-07,Communication,6.5,1
+2006-07,Construction Materials,6.8125,2
+2006-07,Insurance,6.4625,4
+2006-07,Petroleum and Natural Gas,12.0,1
+2006-07,Retail,5.875,1
+2006-07,Trading,5.975247770069375,3
+2006-07,Utilities,6.550609756097561,2
+2006-07,Wholesale,5.75,2
+2006-08,Banking,5.9401935483870965,6
+2006-08,Beer  &&  Liquor,7.25,1
+2006-08,Computers,6.75,1
+2006-08,Electrical Equipment,7.25,1
+2006-08,Entertainment,6.8125,2
+2006-08,Food Products,5.45,1
+2006-08,Healthcare,9.58847277486911,3
+2006-08,Insurance,6.027945529899349,6
+2006-08,Machinery,5.875,2
+2006-08,Measuring and Control Equipment,2.5,1
+2006-08,Non-Metallic and Industrial Metal Mining,6.125,1
+2006-08,Petroleum and Natural Gas,6.346581875993641,3
+2006-08,Pharmaceutical Products,5.9,1
+2006-08,Retail,6.125,1
+2006-08,Trading,4.518148880105402,3
+2006-08,Transportation,7.456,1
+2006-08,Utilities,7.023333333333333,3
+2006-09,Aircraft,6.545,2
+2006-09,Banking,4.76332975448372,11
+2006-09,Business Services,0.625,2
+2006-09,Computers,6.8,1
+2006-09,Construction,8.125,1
+2006-09,Insurance,6.1092941176470585,9
+2006-09,Petroleum and Natural Gas,6.2,2
+2006-09,Trading,5.3677302631578945,6
+2006-09,Transportation,6.0,1
+2006-09,Utilities,6.400000000000001,2
+2006-09,Wholesale,6.625,1
+2006-10,Banking,2.213477777777778,4
+2006-10,Coal,7.625,2
+2006-10,Construction,6.5,1
+2006-10,Construction Materials,6.125,1
+2006-10,Electrical Equipment,2.25,1
+2006-10,Healthcare,0.015690376569037656,2
+2006-10,Insurance,5.970162932790224,12
+2006-10,Measuring and Control Equipment,4.0,1
+2006-10,Petroleum and Natural Gas,6.771744930629669,4
+2006-10,Retail,5.84175016655563,5
+2006-10,Utilities,6.375,2
+2006-11,Automobiles and Trucks,5.75,1
+2006-11,Banking,6.175,2
+2006-11,Business Services,3.9806501547987616,3
+2006-11,Chemicals,5.375,1
+2006-11,Communication,6.034991742361685,5
+2006-11,Computers,3.7661290322580645,2
+2006-11,Construction Materials,6.55,1
+2006-11,Electrical Equipment,2.1276315789473683,3
+2006-11,Healthcare,9.125,1
+2006-11,Insurance,6.057072243346008,6
+2006-11,Machinery,5.75,1
+2006-11,Personal Services,7.5,2
+2006-11,Petroleum and Natural Gas,6.584346504559271,2
+2006-11,Pharmaceutical Products,5.205349877949552,4
+2006-11,Steelworks Etc,0.875,1
+2006-11,Trading,5.445740223463687,4
+2006-11,Transportation,1.625,1
+2006-11,Utilities,6.46795154185022,2
+2006-11,Wholesale,8.375,1
+2006-12,Automobiles and Trucks,4.25,1
+2006-12,Banking,2.030399114253041,10
+2006-12,Business Services,6.05,2
+2006-12,Chemicals,5.536144578313253,3
+2006-12,Communication,8.375,2
+2006-12,Defense,6.1442359249329765,2
+2006-12,Electrical Equipment,5.125,1
+2006-12,Entertainment,7.625,1
+2006-12,Insurance,5.072222222222223,9
+2006-12,Measuring and Control Equipment,2.5,1
+2006-12,Other,9.25,1
+2006-12,Petroleum and Natural Gas,5.8010110294117645,2
+2006-12,Pharmaceutical Products,3.75,1
+2006-12,Retail,5.5625,2
+2006-12,Tobacco Products,7.48125,4
+2006-12,Trading,5.521409214092142,3
+2006-12,Transportation,6.196687840290381,2
+2006-12,Utilities,6.0,1
+2007-01,Construction Materials,5.5,1
+2007-01,Electrical Equipment,8.625,1
+2007-01,Insurance,5.821428571428571,7
+2007-01,Petroleum and Natural Gas,6.137439320388349,3
+2007-01,Steelworks Etc,5.969166666666667,4
+2007-01,Textiles,11.5,1
+2007-01,Trading,4.223912786134728,5
+2007-01,Utilities,6.25,2
+2007-02,Automobiles and Trucks,2.0,1
+2007-02,Banking,3.7976361845386535,8
+2007-02,Beer  &&  Liquor,5.6,1
+2007-02,Business Services,7.75,1
+2007-02,Chemicals,6.75,1
+2007-02,Communication,5.8875,2
+2007-02,Computers,5.4,1
+2007-02,Food Products,0.875,1
+2007-02,Insurance,5.989291217257319,6
+2007-02,Machinery,6.3125,2
+2007-02,Measuring and Control Equipment,0.625,1
+2007-02,Medical Equipment,2.25,1
+2007-02,Petroleum and Natural Gas,7.75,1
+2007-02,Retail,7.399085968379446,3
+2007-02,Trading,4.524484536082475,2
+2007-02,Utilities,5.95,1
+2007-02,Wholesale,1.0,1
+2007-03,Aircraft,5.5,2
+2007-03,Banking,4.603079347143754,9
+2007-03,Business Services,5.75,1
+2007-03,Chemicals,5.201,2
+2007-03,Communication,5.75,2
+2007-03,Construction Materials,5.85,1
+2007-03,Consumer Goods,5.55,1
+2007-03,Electrical Equipment,4.036569506726457,5
+2007-03,Healthcare,5.95,1
+2007-03,Insurance,5.588284828887092,18
+2007-03,Non-Metallic and Industrial Metal Mining,8.3125,2
+2007-03,Petroleum and Natural Gas,6.5818497109826595,5
+2007-03,Pharmaceutical Products,5.492235824742268,6
+2007-03,Trading,4.406908212560386,5
+2007-03,Transportation,7.456,1
+2007-03,Utilities,5.714285714285714,3
+2007-03,Wholesale,5.875,1
+2007-04,Banking,5.371343085106383,2
+2007-04,Chemicals,6.049999999999999,1
+2007-04,Communication,5.875,2
+2007-04,Electrical Equipment,5.63349358974359,5
+2007-04,Fabricated Products,9.125,1
+2007-04,Food Products,6.3125,2
+2007-04,Insurance,5.87,10
+2007-04,Machinery,6.625,1
+2007-04,Non-Metallic and Industrial Metal Mining,6.25,1
+2007-04,Petroleum and Natural Gas,4.862676056338028,5
+2007-04,Real Estate,5.8,1
+2007-04,Retail,4.733575727181544,4
+2007-04,Trading,6.471850000000001,3
+2007-04,Transportation,5.87017200938233,5
+2007-05,Banking,5.714423076923077,6
+2007-05,Business Services,2.375,1
+2007-05,Chemicals,7.125,1
+2007-05,Communication,6.012737262737263,5
+2007-05,Computers,5.576923076923077,2
+2007-05,Electrical Equipment,3.9098837209302326,2
+2007-05,Entertainment,7.5,1
+2007-05,Healthcare,1.875,1
+2007-05,Insurance,5.9528033472803354,5
+2007-05,Medical Equipment,4.16825,1
+2007-05,Petroleum and Natural Gas,5.051045627376426,4
+2007-05,Pharmaceutical Products,5.85,1
+2007-05,Retail,5.772867298578199,5
+2007-05,"Shipbuilding, Railroad Equipment",7.5,1
+2007-05,Steelworks Etc,5.958916060806345,5
+2007-05,Trading,5.76137309292649,4
+2007-05,Transportation,8.0,1
+2007-06,Banking,5.856640412819121,8
+2007-06,Beer  &&  Liquor,2.5,1
+2007-06,Business Services,6.225808249721293,4
+2007-06,Chemicals,9.165628245067497,5
+2007-06,Communication,1.0,1
+2007-06,Construction,7.625,1
+2007-06,Construction Materials,6.595564941921858,3
+2007-06,Electrical Equipment,2.841751700680272,3
+2007-06,Food Products,6.588722703639514,2
+2007-06,Healthcare,8.140288713910762,3
+2007-06,Insurance,6.526859776168531,8
+2007-06,Personal Services,3.25,2
+2007-06,Petroleum and Natural Gas,6.663165791447862,5
+2007-06,Pharmaceutical Products,3.0,1
+2007-06,Real Estate,6.0,1
+2007-06,"Restaurants, Hotels, Motels",6.375,1
+2007-06,Rubber and Plastic Products,6.1375,2
+2007-06,Textiles,4.1129,1
+2007-06,Tobacco Products,7.0,2
+2007-06,Trading,6.226892950391645,3
+2007-06,Utilities,6.621843936381709,8
+2007-07,Aircraft,5.625,1
+2007-07,Banking,4.016679779701023,4
+2007-07,Business Services,6.00545738045738,3
+2007-07,Business Supplies,6.375,2
+2007-07,Candy  &&  Soda,5.75,1
+2007-07,Coal,9.0,2
+2007-07,Entertainment,2.875,1
+2007-07,Insurance,6.119093686354379,11
+2007-07,Medical Equipment,7.572536496350365,3
+2007-07,Petroleum and Natural Gas,5.332656926406926,6
+2007-07,Precious Metals,1.5,3
+2007-07,Printing and Publishing,7.375,1
+2007-07,Retail,7.243300423131171,3
+2007-07,Steelworks Etc,4.877599999999999,2
+2007-07,Trading,6.171489971346705,2
+2007-07,Utilities,3.983325,2
+2007-07,Wholesale,6.5,1
+2007-08,Banking,5.841913074456715,9
+2007-08,Beer  &&  Liquor,6.45,1
+2007-08,Business Services,8.25,1
+2007-08,Communication,6.584383438343834,3
+2007-08,Electrical Equipment,5.75,2
+2007-08,Fabricated Products,6.875,1
+2007-08,Food Products,6.16796875,4
+2007-08,Healthcare,6.3,1
+2007-08,Insurance,6.100239489089942,9
+2007-08,Personal Services,7.125,2
+2007-08,Petroleum and Natural Gas,4.718915343915344,2
+2007-08,Pharmaceutical Products,5.550000000000001,3
+2007-08,"Restaurants, Hotels, Motels",6.25,1
+2007-08,Retail,6.261077235772358,4
+2007-08,Trading,6.0159722222222225,4
+2007-08,Transportation,5.117052023121388,3
+2007-08,Utilities,5.85,1
+2007-09,Banking,5.552922597864768,12
+2007-09,Business Services,5.7,1
+2007-09,Chemicals,5.116890080428954,3
+2007-09,Communication,3.0,1
+2007-09,Computers,5.75,1
+2007-09,Construction Materials,9.166666666666666,1
+2007-09,Electrical Equipment,3.875,1
+2007-09,Insurance,6.083333333333333,9
+2007-09,Measuring and Control Equipment,6.625,1
+2007-09,Petroleum and Natural Gas,6.172998046875,4
+2007-09,Pharmaceutical Products,5.916666666666667,3
+2007-09,Recreation,6.3,1
+2007-09,"Restaurants, Hotels, Motels",6.25,1
+2007-09,Retail,6.255358236374771,5
+2007-09,Trading,4.961086637298091,5
+2007-09,Transportation,6.05625,4
+2007-09,Utilities,6.849999999999999,1
+2007-10,Apparel,6.2,2
+2007-10,Banking,5.597867892976589,5
+2007-10,Business Supplies,5.375,1
+2007-10,Communication,5.632341356673961,7
+2007-10,Consumer Goods,5.7,2
+2007-10,Healthcare,9.125,1
+2007-10,Insurance,6.195112285336856,12
+2007-10,Measuring and Control Equipment,6.5,1
+2007-10,Printing and Publishing,5.7,1
+2007-10,"Restaurants, Hotels, Motels",6.484746903607969,7
+2007-10,Retail,6.5,1
+2007-10,Steelworks Etc,4.375,2
+2007-10,Trading,5.813640318181818,5
+2007-10,Transportation,5.75,1
+2007-11,Banking,5.832614861032331,6
+2007-11,Beer  &&  Liquor,5.413461538461538,2
+2007-11,Business Services,5.807255083179298,3
+2007-11,Business Supplies,8.3125,2
+2007-11,Chemicals,5.25,1
+2007-11,Construction Materials,2.75,1
+2007-11,Insurance,5.725,8
+2007-11,Measuring and Control Equipment,3.5,1
+2007-11,Medical Equipment,2.625,1
+2007-11,Petroleum and Natural Gas,7.3278735632183905,2
+2007-11,Pharmaceutical Products,5.633333333333334,3
+2007-11,Printing and Publishing,5.941666666666666,3
+2007-11,Trading,3.816706730769231,2
+2007-12,Aircraft,5.4875,2
+2007-12,Banking,6.085954565312363,13
+2007-12,Beer  &&  Liquor,6.2585227272727275,2
+2007-12,Chemicals,5.0,1
+2007-12,Communication,5.340316395014382,3
+2007-12,Computers,11.090604026845638,2
+2007-12,Electrical Equipment,5.941215034965035,7
+2007-12,Food Products,5.961633663366337,5
+2007-12,Insurance,5.8240822027134875,12
+2007-12,Measuring and Control Equipment,5.625,1
+2007-12,Medical Equipment,2.0,1
+2007-12,Non-Metallic and Industrial Metal Mining,6.383333333333334,3
+2007-12,Petroleum and Natural Gas,4.7810040705563095,8
+2007-12,Pharmaceutical Products,6.25,1
+2007-12,Retail,7.826077827547592,5
+2007-12,Steelworks Etc,5.955318379160636,4
+2007-12,Trading,6.0,1
+2007-12,Transportation,7.25,1
+2007-12,Utilities,5.723566308243727,3
+2008-01,Banking,5.8518892149669846,4
+2008-01,Beer  &&  Liquor,7.25,1
+2008-01,Electrical Equipment,5.245345744680851,2
+2008-01,Insurance,5.766666666666667,3
+2008-01,Other,7.875,2
+2008-01,Personal Services,7.875,1
+2008-01,Petroleum and Natural Gas,4.978058194774348,4
+2008-01,Pharmaceutical Products,3.0,1
+2008-01,Precious Metals,1.75,1
+2008-01,Retail,6.06875,4
+2008-01,Steelworks Etc,6.75,1
+2008-01,Trading,5.95,1
+2008-01,Transportation,5.5030665669409125,4
+2008-01,Utilities,6.05,1
+2008-02,Agriculture,4.25,1
+2008-02,Aircraft,4.775,2
+2008-02,Chemicals,6.495762711864407,2
+2008-02,Communication,5.616727272727273,5
+2008-02,Computers,2.75,1
+2008-02,Consumer Goods,4.875,1
+2008-02,Insurance,5.964027410832233,13
+2008-02,Petroleum and Natural Gas,5.0,1
+2008-02,Pharmaceutical Products,6.1125,2
+2008-02,Tobacco Products,5.75,1
+2008-02,Trading,2.5,2
+2008-02,Transportation,5.85,2
+2008-02,Utilities,5.95,1
+2008-02,Wholesale,3.363574351978172,4
+2008-03,Banking,6.828581871345029,6
+2008-03,Chemicals,6.264308286516854,4
+2008-03,Computers,5.2,3
+2008-03,Consumer Goods,5.194575471698113,3
+2008-03,Defense,4.121,1
+2008-03,Electrical Equipment,5.746798603026775,4
+2008-03,Food Products,4.9,3
+2008-03,Insurance,5.869071873231466,8
+2008-03,Machinery,6.025,2
+2008-03,Medical Equipment,2.25,1
+2008-03,Non-Metallic and Industrial Metal Mining,1.875,1
+2008-03,Other,6.1,1
+2008-03,Petroleum and Natural Gas,6.248844537815127,6
+2008-03,Pharmaceutical Products,6.4375,2
+2008-03,Precious Metals,3.2580071174377223,2
+2008-03,Recreation,5.625,1
+2008-03,Retail,6.151869158878505,4
+2008-03,Shipping Containers,6.5,1
+2008-03,Trading,5.125,1
+2008-03,Transportation,6.6712656364974245,4
+2008-03,Utilities,6.470242098184263,7
+2008-03,Wholesale,5.863408071748879,6
+2008-04,Agriculture,5.5,2
+2008-04,Banking,5.90417661097852,8
+2008-04,Business Services,5.789289617486339,4
+2008-04,Coal,2.375,1
+2008-04,Communication,6.124646559849199,5
+2008-04,Computers,6.0,2
+2008-04,Electrical Equipment,4.75,1
+2008-04,Insurance,5.301428571428572,7
+2008-04,Machinery,6.125,1
+2008-04,Non-Metallic and Industrial Metal Mining,6.6,1
+2008-04,Petroleum and Natural Gas,5.7340909090909085,5
+2008-04,Retail,5.225,2
+2008-04,Trading,6.443502581755594,2
+2008-04,Transportation,5.5,1
+2008-04,Utilities,6.2,1
+2008-05,Aircraft,6.125,1
+2008-05,Banking,3.8964109330759333,7
+2008-05,Beer  &&  Liquor,5.0,1
+2008-05,Chemicals,5.7,1
+2008-05,Coal,3.25,1
+2008-05,Communication,5.632380073800738,5
+2008-05,Electrical Equipment,4.481278801843318,6
+2008-05,Food Products,6.5,2
+2008-05,Insurance,5.970903997011581,12
+2008-05,Measuring and Control Equipment,6.9,1
+2008-05,Petroleum and Natural Gas,5.462479658258747,10
+2008-05,Pharmaceutical Products,5.961836027713626,6
+2008-05,"Restaurants, Hotels, Motels",6.75,1
+2008-05,Retail,8.5,1
+2008-05,Steelworks Etc,5.75,1
+2008-05,Tobacco Products,11.0,1
+2008-05,Trading,5.427861842105264,4
+2008-05,Transportation,5.25,2
+2008-05,Utilities,7.04139121854958,7
+2008-06,Automobiles and Trucks,8.125,1
+2008-06,Banking,6.65,5
+2008-06,Business Services,4.0703125,2
+2008-06,Business Supplies,8.016666666666667,3
+2008-06,Communication,5.548456790123457,3
+2008-06,Computers,1.75,2
+2008-06,Electrical Equipment,3.0,1
+2008-06,Insurance,6.17280603842635,11
+2008-06,Machinery,6.6875,2
+2008-06,Non-Metallic and Industrial Metal Mining,6.65,2
+2008-06,Petroleum and Natural Gas,7.7019908116385905,4
+2008-06,Pharmaceutical Products,5.499294781382228,3
+2008-06,Printing and Publishing,6.225,2
+2008-06,Steelworks Etc,5.425,2
+2008-06,Trading,1.1,1
+2008-06,Transportation,4.004901960784314,2
+2008-06,Utilities,6.3838968957871405,6
+2008-06,Wholesale,5.5,1
+2008-07,Banking,7.1875,4
+2008-07,Business Services,1.75,1
+2008-07,Chemicals,5.5,2
+2008-07,Electrical Equipment,8.192583732057416,4
+2008-07,Food Products,4.833361064891847,2
+2008-07,Insurance,4.81290909090909,10
+2008-07,Petroleum and Natural Gas,7.0,1
+2008-07,Retail,7.625,2
+2008-07,Steelworks Etc,6.570227765726681,3
+2008-07,Transportation,5.962955032119915,2
+2008-07,Utilities,6.3,1
+2008-08,Banking,5.939461883408072,2
+2008-08,Business Services,0.0,1
+2008-08,Candy  &&  Soda,5.0,1
+2008-08,Chemicals,6.5,1
+2008-08,Communication,6.0,1
+2008-08,Food Products,5.25,1
+2008-08,Insurance,6.239156506447832,8
+2008-08,Machinery,10.25,1
+2008-08,Measuring and Control Equipment,6.372881355932203,2
+2008-08,Petroleum and Natural Gas,6.585308056872038,4
+2008-08,Pharmaceutical Products,5.5,1
+2008-08,Retail,6.8125,2
+2008-08,Trading,4.4629251700680275,2
+2008-08,Utilities,6.875,2
+2008-08,Wholesale,7.35,1
+2008-09,Banking,8.925,2
+2008-09,Chemicals,6.75,1
+2008-09,Construction Materials,6.15,1
+2008-09,Consumer Goods,1.183004,1
+2008-09,Food Products,4.427394034536892,2
+2008-09,Insurance,5.3374999999999995,4
+2008-09,Petroleum and Natural Gas,6.947442420996251,6
+2008-09,Pharmaceutical Products,3.75,1
+2008-09,Utilities,6.7,2
+2008-10,Banking,8.125,1
+2008-10,Beer  &&  Liquor,7.9,1
+2008-10,Business Services,7.375,3
+2008-10,Insurance,5.5,1
+2008-10,Machinery,7.0,2
+2008-10,Petroleum and Natural Gas,6.541280752532562,4
+2008-10,Transportation,7.875,1
+2008-10,Utilities,8.25,1
+2008-11,Business Services,6.5,1
+2008-11,Business Supplies,7.5,1
+2008-11,Candy  &&  Soda,7.375,1
+2008-11,Communication,8.134559452523524,5
+2008-11,Retail,7.5,1
+2008-11,Steelworks Etc,5.75,2
+2008-11,Tobacco Products,9.383333333333333,3
+2008-11,Utilities,8.460972568578555,3
+2008-12,Aircraft,6.125,1
+2008-12,Automobiles and Trucks,5.25,1
+2008-12,Chemicals,5.875,1
+2008-12,Communication,8.849452554744525,2
+2008-12,Computers,5.7874775985663085,4
+2008-12,Food Products,6.75,1
+2008-12,Machinery,7.0,1
+2008-12,Petroleum and Natural Gas,12.548857868020304,2
+2008-12,Retail,6.25,1
+2008-12,Transportation,7.0,1
+2008-12,Utilities,10.169942196531792,4
+2009-01,Beer  &&  Liquor,5.0,1
+2009-01,Business Services,9.0,1
+2009-01,Candy  &&  Soda,6.785,2
+2009-01,Communication,7.25,1
+2009-01,Electrical Equipment,4.875,1
+2009-01,Food Products,4.5,1
+2009-01,Petroleum and Natural Gas,7.976230712711241,5
+2009-01,Pharmaceutical Products,6.050000000000001,2
+2009-01,Retail,5.65460901826484,5
+2009-01,Transportation,7.583333333333333,3
+2009-01,Utilities,7.375,2
+2009-02,Aircraft,4.941066417212348,3
+2009-02,Banking,6.5,1
+2009-02,Candy  &&  Soda,4.298469387755102,2
+2009-02,Chemicals,5.25,2
+2009-02,Communication,5.9365891472868215,4
+2009-02,Computers,5.030109204368175,3
+2009-02,Construction Materials,6.275,2
+2009-02,Consumer Goods,7.700892857142857,3
+2009-02,Insurance,6.93418453427065,3
+2009-02,Other,6.875,2
+2009-02,Petroleum and Natural Gas,6.961855950653121,9
+2009-02,Pharmaceutical Products,4.0,1
+2009-02,Printing and Publishing,7.375,1
+2009-02,Tobacco Products,9.066666666666666,3
+2009-02,Trading,5.75,1
+2009-02,Transportation,5.6,3
+2009-02,Utilities,7.517506142506143,3
+2009-03,Aircraft,5.958333333333333,3
+2009-03,Beer  &&  Liquor,4.083333333333333,3
+2009-03,Business Services,6.0,2
+2009-03,Business Supplies,6.5,1
+2009-03,Chemicals,7.345070422535211,3
+2009-03,Communication,7.06819306930693,4
+2009-03,Computers,6.25,1
+2009-03,Electrical Equipment,6.867388059701493,3
+2009-03,Insurance,9.25,1
+2009-03,Measuring and Control Equipment,5.4,1
+2009-03,Medical Equipment,6.942666666666667,5
+2009-03,Petroleum and Natural Gas,8.394206549118389,7
+2009-03,Pharmaceutical Products,6.106871546961326,8
+2009-03,Precious Metals,6.95,1
+2009-03,Retail,6.6000000000000005,1
+2009-03,Shipping Containers,9.25,1
+2009-03,Transportation,4.5,2
+2009-03,Utilities,7.083958773784356,8
+2009-03,Wholesale,6.0,2
+2009-04,Banking,6.3,1
+2009-04,Business Services,8.23611111111111,2
+2009-04,Candy  &&  Soda,7.0,1
+2009-04,Communication,13.125,1
+2009-04,Computers,5.625,1
+2009-04,Electrical Equipment,4.922043010752688,4
+2009-04,Food Products,6.4375,2
+2009-04,Machinery,8.95,1
+2009-04,Measuring and Control Equipment,4.5,1
+2009-04,Retail,6.95,1
+2009-04,Rubber and Plastic Products,8.0,1
+2009-04,Transportation,8.75,1
+2009-04,Utilities,8.75,3
+2009-05,Aircraft,4.752212389380531,2
+2009-05,Automobiles and Trucks,10.5,1
+2009-05,Banking,6.280006218905473,7
+2009-05,Business Services,4.116666666666666,3
+2009-05,Business Supplies,9.375,1
+2009-05,Chemicals,7.712894248608534,5
+2009-05,Communication,8.5375,2
+2009-05,Computers,5.6,2
+2009-05,Construction,5.722222222222222,2
+2009-05,Electrical Equipment,6.483167330677291,5
+2009-05,Entertainment,3.25,1
+2009-05,Food Products,4.45,1
+2009-05,Healthcare,7.75,1
+2009-05,Insurance,7.697055324211779,7
+2009-05,Measuring and Control Equipment,6.5,2
+2009-05,Medical Equipment,5.5,2
+2009-05,Other,6.626777251184834,2
+2009-05,Personal Services,5.25,1
+2009-05,Petroleum and Natural Gas,5.5856952519379846,7
+2009-05,Real Estate,9.875,1
+2009-05,Recreation,6.125,1
+2009-05,"Restaurants, Hotels, Motels",7.875,1
+2009-05,Retail,5.983333333333333,3
+2009-05,Steelworks Etc,8.905327510917031,3
+2009-05,Utilities,7.405970612582782,8
+2009-06,Banking,5.716666666666667,3
+2009-06,Beer  &&  Liquor,6.375,1
+2009-06,Business Services,7.720890410958904,3
+2009-06,Business Supplies,10.75,1
+2009-06,Chemicals,7.25,1
+2009-06,Communication,5.53515625,5
+2009-06,Computers,5.875,1
+2009-06,Construction,4.0,1
+2009-06,Construction Materials,9.0,1
+2009-06,Electrical Equipment,5.885953608247423,2
+2009-06,Entertainment,7.5,1
+2009-06,Insurance,7.585722253206916,7
+2009-06,Machinery,10.875,1
+2009-06,Petroleum and Natural Gas,7.665709728867623,11
+2009-06,Precious Metals,2.0,1
+2009-06,Steelworks Etc,6.485887096774194,3
+2009-06,Tobacco Products,6.75,1
+2009-06,Trading,6.957286821705426,4
+2009-06,Transportation,6.278526148969889,3
+2009-06,Utilities,8.642441860465116,2
+2009-07,Aircraft,4.75,3
+2009-07,Banking,8.73361650485437,2
+2009-07,Business Services,5.187303767660911,5
+2009-07,Business Supplies,6.2250000000000005,2
+2009-07,Chemicals,8.95,1
+2009-07,Communication,13.125,1
+2009-07,Construction,9.1,1
+2009-07,Electrical Equipment,4.375,2
+2009-07,Entertainment,10.75,1
+2009-07,Food Products,3.375,1
+2009-07,Insurance,8.25,1
+2009-07,Medical Equipment,4.3125,2
+2009-07,Personal Services,5.0,1
+2009-07,Petroleum and Natural Gas,8.086092493297588,4
+2009-07,Retail,5.268904320987654,3
+2009-07,Trading,3.25,1
+2009-08,Apparel,11.375,1
+2009-08,Banking,5.157260479041916,2
+2009-08,Business Services,5.0,1
+2009-08,Business Supplies,7.439212328767123,2
+2009-08,Candy  &&  Soda,4.5,1
+2009-08,Chemicals,5.750694830461367,5
+2009-08,Communication,6.974453978159127,3
+2009-08,Construction Materials,6.125,1
+2009-08,Consumer Goods,3.15,1
+2009-08,Electrical Equipment,7.75,1
+2009-08,Food Products,10.5,1
+2009-08,Non-Metallic and Industrial Metal Mining,10.25,3
+2009-08,Pharmaceutical Products,5.080572289156627,4
+2009-08,"Restaurants, Hotels, Motels",4.775,2
+2009-08,Retail,5.0,1
+2009-08,Shipping Containers,7.25,2
+2009-08,Trading,7.21064039408867,4
+2009-08,Transportation,5.5,1
+2009-08,Utilities,5.782251521298175,5
+2009-08,Wholesale,6.0,1
+2009-09,Aircraft,6.725,2
+2009-09,Banking,4.98184912081679,5
+2009-09,Business Services,5.751184834123222,2
+2009-09,Business Supplies,11.5,1
+2009-09,Chemicals,4.260775862068965,5
+2009-09,Communication,6.401289009497964,3
+2009-09,Computers,4.0,1
+2009-09,Construction,12.25,1
+2009-09,Electrical Equipment,5.5,1
+2009-09,Insurance,6.629359197907585,4
+2009-09,Machinery,5.790111940298507,3
+2009-09,Measuring and Control Equipment,5.332894736842105,3
+2009-09,Petroleum and Natural Gas,8.625,2
+2009-09,Precious Metals,5.6875,2
+2009-09,Printing and Publishing,4.7,1
+2009-09,Retail,6.125,1
+2009-09,Trading,7.150631067961164,4
+2009-09,Transportation,5.671908506075768,4
+2009-09,Utilities,6.750643776824034,3
+2009-09,Wholesale,5.4045226130653266,2
+2009-10,Automobiles and Trucks,8.25,1
+2009-10,Banking,6.4,1
+2009-10,Business Services,10.0,1
+2009-10,Chemicals,6.125,1
+2009-10,Communication,7.765784982935154,2
+2009-10,Computers,5.0,1
+2009-10,Construction Materials,7.375,1
+2009-10,Entertainment,13.0,1
+2009-10,Insurance,7.908697813121272,3
+2009-10,Machinery,4.875,2
+2009-10,Petroleum and Natural Gas,6.444904137235116,6
+2009-10,Real Estate,4.541666666666667,3
+2009-10,Retail,6.825,2
+2009-10,Steelworks Etc,7.496849684968497,2
+2009-10,Trading,6.786697247706422,2
+2009-10,Transportation,5.722165991902834,2
+2009-10,Utilities,4.0,1
+2009-11,Aircraft,2.8125,2
+2009-11,Automobiles and Trucks,4.25,1
+2009-11,Banking,4.706025267249757,3
+2009-11,Business Services,4.240198675496688,5
+2009-11,Chemicals,4.086589306698002,5
+2009-11,Coal,4.5,1
+2009-11,Communication,5.902203856749312,4
+2009-11,Computers,4.283333333333333,3
+2009-11,Consumer Goods,3.55,1
+2009-11,Defense,4.875,2
+2009-11,Electrical Equipment,4.800029171528588,5
+2009-11,Entertainment,8.75,1
+2009-11,Food Products,4.15,1
+2009-11,Healthcare,5.25,2
+2009-11,Insurance,6.468300071275837,5
+2009-11,Medical Equipment,5.1875,2
+2009-11,Other,6.125,1
+2009-11,Personal Services,8.0,1
+2009-11,Petroleum and Natural Gas,8.3047481636936,5
+2009-11,Shipping Containers,7.25,1
+2009-11,Textiles,11.375,1
+2009-11,Trading,4.233333333333333,3
+2009-11,Transportation,5.75,1
+2009-11,Utilities,5.313782051282051,4
+2009-11,Wholesale,5.702107279693487,2
+2009-12,Aircraft,4.875,1
+2009-12,Banking,6.659001692047377,7
+2009-12,Business Supplies,7.3,1
+2009-12,Candy  &&  Soda,2.35,1
+2009-12,Chemicals,3.125,1
+2009-12,Communication,4.277456647398844,3
+2009-12,Computers,5.541666666666667,3
+2009-12,Electrical Equipment,7.0,1
+2009-12,Healthcare,8.76493710691824,2
+2009-12,Insurance,6.929435483870968,3
+2009-12,Medical Equipment,5.958333333333333,3
+2009-12,Other,7.625,1
+2009-12,Petroleum and Natural Gas,7.5697940503432495,2
+2009-12,Steelworks Etc,6.862781954887218,3
+2009-12,Textiles,8.0,1
+2009-12,Trading,4.368466898954704,4
+2009-12,Transportation,9.25,1
+2009-12,Utilities,9.0,1
+2010-01,Banking,2.8249999999999997,2
+2010-01,Beer  &&  Liquor,4.366666666666666,3
+2010-01,Business Services,0.75,1
+2010-01,Chemicals,4.5710227272727275,2
+2010-01,Communication,4.625,1
+2010-01,Construction,8.204697986577182,2
+2010-01,Entertainment,8.5,1
+2010-01,Food Products,7.625,1
+2010-01,Insurance,5.6290792540792545,2
+2010-01,Medical Equipment,3.6875,2
+2010-01,Petroleum and Natural Gas,8.549698795180722,2
+2010-01,Retail,8.5,1
+2010-01,Trading,4.7749999999999995,2
+2010-01,Utilities,6.25,1
+2010-02,Aircraft,5.1,2
+2010-02,Business Services,4.0,2
+2010-02,Communication,7.875,1
+2010-02,Consumer Goods,1.375,1
+2010-02,Entertainment,9.25,1
+2010-02,Food Products,4.65625,4
+2010-02,Insurance,7.5,1
+2010-02,Machinery,9.5,1
+2010-02,Medical Equipment,5.208333333333333,3
+2010-02,Petroleum and Natural Gas,6.463149641577061,6
+2010-02,Pharmaceutical Products,4.591666666666667,3
+2010-02,Real Estate,7.375,1
+2010-02,Retail,10.25,1
+2010-02,Trading,4.0,1
+2010-02,Transportation,5.827540106951871,2
+2010-02,Utilities,6.175,2
+2010-03,Agriculture,13.875,1
+2010-03,Automobiles and Trucks,9.455074875207986,2
+2010-03,Banking,5.263215859030837,2
+2010-03,Business Supplies,6.937321937321937,3
+2010-03,Coal,6.5625,2
+2010-03,Communication,6.309971838197645,8
+2010-03,Computers,2.625,1
+2010-03,Construction,12.0,1
+2010-03,Construction Materials,6.26503294892916,2
+2010-03,Entertainment,12.625,1
+2010-03,Food Products,7.75,1
+2010-03,Insurance,6.0625,2
+2010-03,Medical Equipment,2.5675675675675675,2
+2010-03,Non-Metallic and Industrial Metal Mining,5.9,1
+2010-03,Petroleum and Natural Gas,6.104237288135593,2
+2010-03,Pharmaceutical Products,3.8539755351681957,3
+2010-03,Printing and Publishing,5.85,1
+2010-03,Recreation,6.35,1
+2010-03,Retail,3.0,1
+2010-03,Shipping Containers,6.75,1
+2010-03,Steelworks Etc,7.375,1
+2010-03,Trading,5.927891487979207,6
+2010-03,Transportation,8.125,1
+2010-03,Utilities,4.43848167539267,2
+2010-03,Wholesale,2.85,1
+2010-04,Banking,5.141894132653061,3
+2010-04,Business Services,2.5,1
+2010-04,Business Supplies,5.375,1
+2010-04,Communication,7.109657947686117,3
+2010-04,Construction,6.625,1
+2010-04,Construction Materials,6.625,1
+2010-04,Electrical Equipment,3.9945812807881778,2
+2010-04,Insurance,4.755725190839694,2
+2010-04,Measuring and Control Equipment,3.95,2
+2010-04,Non-Metallic and Industrial Metal Mining,6.0625,2
+2010-04,Petroleum and Natural Gas,11.375,1
+2010-04,Pharmaceutical Products,8.375,1
+2010-04,Retail,5.35,3
+2010-04,Steelworks Etc,6.5,1
+2010-04,Trading,6.125,1
+2010-05,Apparel,7.375,1
+2010-05,Banking,4.75,1
+2010-05,Business Services,11.25,1
+2010-05,Chemicals,9.125,1
+2010-05,Coal,8.25,1
+2010-05,Construction,9.125,1
+2010-05,Electrical Equipment,5.702672955974843,3
+2010-05,Food Products,6.625,1
+2010-05,Insurance,6.049966487935657,3
+2010-05,Machinery,4.9,1
+2010-05,Measuring and Control Equipment,2.7,2
+2010-05,Petroleum and Natural Gas,4.399134199134199,4
+2010-05,Pharmaceutical Products,4.7125,2
+2010-05,Printing and Publishing,10.625,1
+2010-05,"Restaurants, Hotels, Motels",11.625,1
+2010-05,Retail,4.0,2
+2010-05,Trading,4.282597535934292,4
+2010-05,Utilities,5.925,2
+2010-06,Banking,4.078769841269841,4
+2010-06,Business Services,7.204831932773109,2
+2010-06,Business Supplies,10.625,1
+2010-06,Communication,8.272350993377483,2
+2010-06,Construction,7.15,1
+2010-06,Construction Materials,7.5,1
+2010-06,Electrical Equipment,2.874347014925373,2
+2010-06,Entertainment,8.942434210526315,3
+2010-06,Food Products,5.4,1
+2010-06,Insurance,5.633055555555556,4
+2010-06,Machinery,5.0,1
+2010-06,Non-Metallic and Industrial Metal Mining,8.0,1
+2010-06,Other,7.266778523489933,2
+2010-06,Petroleum and Natural Gas,5.65,3
+2010-06,Pharmaceutical Products,2.75,1
+2010-06,Tobacco Products,5.283536585365853,2
+2010-06,Trading,7.023957783641161,4
+2010-06,Utilities,4.75,2
+2010-06,Wholesale,5.875,1
+2010-07,Banking,4.4,1
+2010-07,Business Services,3.95,1
+2010-07,Communication,3.91151284490961,4
+2010-07,Electrical Equipment,8.125,1
+2010-07,Entertainment,8.625,1
+2010-07,Food Products,4.766666666666667,3
+2010-07,Machinery,8.125,1
+2010-07,Measuring and Control Equipment,3.75,2
+2010-07,Other,11.0,1
+2010-07,Petroleum and Natural Gas,6.221948818897638,4
+2010-07,Pharmaceutical Products,1.4166666666666667,3
+2010-07,Retail,4.3,3
+2010-07,Steelworks Etc,9.0,1
+2010-07,Trading,4.6764984227129345,3
+2010-07,Transportation,6.22,1
+2010-07,Utilities,5.875,1
+2010-07,Wholesale,10.0,1
+2010-08,Apparel,7.625,1
+2010-08,Automobiles and Trucks,9.001453488372093,2
+2010-08,Banking,3.353451581975072,4
+2010-08,Business Services,1.7830396475770924,2
+2010-08,Business Supplies,7.875,1
+2010-08,Chemicals,7.212740384615385,2
+2010-08,Coal,8.0,2
+2010-08,Communication,6.563297101449276,8
+2010-08,Computers,3.5137130801687766,2
+2010-08,Construction Materials,9.5,1
+2010-08,Electrical Equipment,5.0,2
+2010-08,Healthcare,9.057587336244541,4
+2010-08,Insurance,4.93173969072165,8
+2010-08,Machinery,5.125,1
+2010-08,Medical Equipment,4.7,1
+2010-08,Non-Metallic and Industrial Metal Mining,4.925,2
+2010-08,Other,5.4875,4
+2010-08,Petroleum and Natural Gas,6.247307819748178,13
+2010-08,Pharmaceutical Products,3.727856135401975,3
+2010-08,Printing and Publishing,11.5,1
+2010-08,"Restaurants, Hotels, Motels",3.875,1
+2010-08,Retail,5.178211009174313,2
+2010-08,Steelworks Etc,5.509948051948052,3
+2010-08,Trading,6.8818,3
+2010-08,Wholesale,5.25,1
+2010-09,Aircraft,4.686486486486487,2
+2010-09,Automobiles and Trucks,4.625,1
+2010-09,Banking,2.252958152958153,2
+2010-09,Business Services,3.0,8
+2010-09,Business Supplies,7.125,1
+2010-09,Candy  &&  Soda,4.625,1
+2010-09,Chemicals,4.2387832017229,4
+2010-09,Communication,8.625,1
+2010-09,Computers,2.8851474926253684,7
+2010-09,Construction,6.95,1
+2010-09,Construction Materials,5.2,1
+2010-09,Food Products,3.6105475763016157,4
+2010-09,Insurance,5.0224555233760855,9
+2010-09,Medical Equipment,2.875,1
+2010-09,Non-Metallic and Industrial Metal Mining,5.5249999999999995,2
+2010-09,Petroleum and Natural Gas,6.349673366834171,6
+2010-09,Pharmaceutical Products,4.459677419354839,3
+2010-09,Real Estate,5.75,1
+2010-09,Recreation,5.275,2
+2010-09,Retail,4.2875244618395305,4
+2010-09,Steelworks Etc,3.4125,2
+2010-09,Trading,5.02869140625,5
+2010-09,Transportation,3.375,1
+2010-09,Utilities,3.739257710402509,9
+2010-09,Wholesale,3.25,1
+2010-10,Banking,4.1259901234567895,4
+2010-10,Beer  &&  Liquor,2.9583333333333335,3
+2010-10,Business Services,5.198387096774193,4
+2010-10,Communication,6.600154511742892,3
+2010-10,Electrical Equipment,3.2083333333333335,3
+2010-10,Healthcare,7.022900763358779,4
+2010-10,Insurance,4.7875000000000005,2
+2010-10,Machinery,8.5,1
+2010-10,Petroleum and Natural Gas,9.600454545454545,3
+2010-10,Pharmaceutical Products,3.971777620396601,7
+2010-10,Precious Metals,3.5,1
+2010-10,Retail,2.625,4
+2010-10,Trading,7.75,1
+2010-10,Transportation,4.6,2
+2010-10,Utilities,3.7981386392811296,3
+2010-10,Wholesale,4.0,1
+2010-11,Banking,3.025,2
+2010-11,Beer  &&  Liquor,1.8,3
+2010-11,Business Services,2.873056994818653,2
+2010-11,Candy  &&  Soda,1.125,1
+2010-11,Chemicals,3.750463821892393,5
+2010-11,Communication,6.984375,3
+2010-11,Computers,11.75,1
+2010-11,Construction Materials,4.7,1
+2010-11,Consumer Goods,1.8,1
+2010-11,Electrical Equipment,3.8632527147087856,4
+2010-11,Healthcare,3.875,2
+2010-11,Insurance,5.000439367311072,6
+2010-11,Medical Equipment,2.3992537313432836,2
+2010-11,Personal Services,7.0,1
+2010-11,Petroleum and Natural Gas,5.158280254777069,5
+2010-11,Pharmaceutical Products,2.875,1
+2010-11,Precious Metals,4.5,1
+2010-11,Retail,2.9375,2
+2010-11,Rubber and Plastic Products,6.125,1
+2010-11,Shipping Containers,5.75,1
+2010-11,Steelworks Etc,8.75,1
+2010-11,Trading,4.3317774086378735,7
+2010-11,Transportation,3.8333333333333335,3
+2010-11,Utilities,5.17602510460251,3
+2010-12,Automobiles and Trucks,9.75,1
+2010-12,Banking,3.9298618784530386,5
+2010-12,Beer  &&  Liquor,2.5,1
+2010-12,Business Services,3.0549450549450547,2
+2010-12,Chemicals,6.125,1
+2010-12,Communication,4.5,1
+2010-12,Computers,2.975,2
+2010-12,Construction,4.0,1
+2010-12,Construction Materials,3.0,1
+2010-12,Consumer Goods,3.35,1
+2010-12,Electrical Equipment,5.2722148541114064,3
+2010-12,Food Products,4.0625,2
+2010-12,Healthcare,9.05110497237569,2
+2010-12,Insurance,5.025,2
+2010-12,Machinery,5.5649624765478425,2
+2010-12,Measuring and Control Equipment,4.866703539823009,2
+2010-12,Medical Equipment,3.2892559109874826,4
+2010-12,Other,7.25,1
+2010-12,Petroleum and Natural Gas,3.8472095150960657,8
+2010-12,Pharmaceutical Products,3.973722986247544,3
+2010-12,"Restaurants, Hotels, Motels",2.0,1
+2010-12,Retail,8.0,1
+2010-12,Trading,5.541158536585366,2
+2010-12,Transportation,5.823007968127491,2
+2010-12,Utilities,4.092105263157895,2
+2010-12,Wholesale,4.625,1
+2011-01,Automobiles and Trucks,6.625,2
+2011-01,Banking,4.622326203208556,2
+2011-01,Business Services,6.595,3
+2011-01,Candy  &&  Soda,2.9,1
+2011-01,Communication,8.75,1
+2011-01,Construction,4.25,1
+2011-01,Construction Materials,9.25,1
+2011-01,Electrical Equipment,8.264076576576576,2
+2011-01,Food Products,10.0,1
+2011-01,Healthcare,8.0,1
+2011-01,Measuring and Control Equipment,7.0,1
+2011-01,Petroleum and Natural Gas,11.875,1
+2011-01,Retail,4.927734375,2
+2011-01,Steelworks Etc,5.95,1
+2011-01,Trading,4.931950610432852,6
+2011-01,Transportation,4.875,1
+2011-01,Utilities,4.549870967741936,3
+2011-02,Aircraft,4.8125,2
+2011-02,Automobiles and Trucks,7.733988159311087,3
+2011-02,Banking,4.746141975308642,2
+2011-02,Business Services,3.9333333333333336,3
+2011-02,Business Supplies,4.101355332940483,5
+2011-02,Candy  &&  Soda,4.5,1
+2011-02,Coal,8.25,1
+2011-02,Construction,7.5,1
+2011-02,Electrical Equipment,5.167307692307692,3
+2011-02,Insurance,5.832075471698114,2
+2011-02,Machinery,4.8375,2
+2011-02,Measuring and Control Equipment,3.85,2
+2011-02,Petroleum and Natural Gas,5.953417602996255,4
+2011-02,Textiles,6.375,1
+2011-02,Trading,1.875,1
+2011-02,Wholesale,4.666666666666667,3
+2011-03,Banking,4.5953125,5
+2011-03,Chemicals,3.1546348314606742,4
+2011-03,Coal,8.0,1
+2011-03,Communication,3.9272948328267474,6
+2011-03,Computers,3.5617035110533157,8
+2011-03,Construction Materials,3.25,1
+2011-03,Consumer Goods,7.375,1
+2011-03,Electrical Equipment,4.125,1
+2011-03,Insurance,5.059519155590305,4
+2011-03,Medical Equipment,3.375,2
+2011-03,Non-Metallic and Industrial Metal Mining,4.875,1
+2011-03,Petroleum and Natural Gas,4.994880546075085,4
+2011-03,Pharmaceutical Products,3.5423387096774195,3
+2011-03,Real Estate,5.625,1
+2011-03,Retail,5.279366028708134,5
+2011-03,Steelworks Etc,6.337025316455696,4
+2011-03,Trading,5.422565466448445,6
+2011-03,Utilities,3.460237258347979,5
+2011-04,Banking,5.099999999999999,1
+2011-04,Communication,4.400507614213199,4
+2011-04,Electrical Equipment,3.75,1
+2011-04,Food Products,4.831333333333333,3
+2011-04,Insurance,5.8,1
+2011-04,Non-Metallic and Industrial Metal Mining,7.75,1
+2011-04,Petroleum and Natural Gas,7.936274509803922,2
+2011-04,Printing and Publishing,6.625,1
+2011-04,Retail,3.895501730103806,5
+2011-04,Steelworks Etc,5.4,1
+2011-04,Textiles,7.625,1
+2011-04,Trading,5.787644281217209,4
+2011-04,Utilities,7.2181146025878,2
+2011-05,Banking,4.625,1
+2011-05,Beer  &&  Liquor,2.5,1
+2011-05,Business Services,1.6596185737976783,4
+2011-05,Communication,7.625,2
+2011-05,Computers,3.25,4
+2011-05,Construction,8.375,1
+2011-05,Electrical Equipment,1.5416666666666667,3
+2011-05,Entertainment,6.75,1
+2011-05,Food Products,2.4,2
+2011-05,Insurance,4.047961854899028,6
+2011-05,Machinery,3.807536893886156,4
+2011-05,Other,4.75,3
+2011-05,Petroleum and Natural Gas,6.0078125,2
+2011-05,Pharmaceutical Products,2.5273026315789475,6
+2011-05,Retail,4.9375,2
+2011-05,Tobacco Products,4.75,1
+2011-05,Trading,4.25,1
+2011-05,Transportation,5.047532656023222,2
+2011-05,Utilities,4.259218612818262,5
+2011-06,Banking,3.5028878923766813,2
+2011-06,Business Services,5.8362125162972625,5
+2011-06,Business Supplies,7.125,1
+2011-06,Chemicals,7.875,1
+2011-06,Coal,6.125,2
+2011-06,Communication,5.788131313131313,3
+2011-06,Construction,8.405898876404494,2
+2011-06,Electrical Equipment,10.625,1
+2011-06,Fabricated Products,7.875,1
+2011-06,Healthcare,6.15800283286119,3
+2011-06,Insurance,5.432978142076503,3
+2011-06,Machinery,4.596166263115415,5
+2011-06,Measuring and Control Equipment,2.5,3
+2011-06,Medical Equipment,3.25,2
+2011-06,Non-Metallic and Industrial Metal Mining,7.0,2
+2011-06,Petroleum and Natural Gas,8.13370253164557,3
+2011-06,Pharmaceutical Products,4.016666666666667,3
+2011-06,Steelworks Etc,5.2,1
+2011-06,Trading,5.010914309717165,15
+2011-06,Utilities,4.6844640434192675,4
+2011-06,Wholesale,2.95,1
+2011-07,Automobiles and Trucks,1.8125,2
+2011-07,Banking,4.108763586956521,4
+2011-07,Business Services,3.7415707236842106,2
+2011-07,Communication,7.991379310344827,2
+2011-07,Construction,9.125,1
+2011-07,Defense,5.719999999999999,1
+2011-07,Food Products,4.675166297117516,2
+2011-07,Insurance,4.8,1
+2011-07,Non-Metallic and Industrial Metal Mining,4.716666666666667,3
+2011-07,Personal Services,6.5,1
+2011-07,Petroleum and Natural Gas,3.2,2
+2011-07,"Restaurants, Hotels, Motels",9.5,1
+2011-07,Retail,1.125,1
+2011-07,Trading,6.6118263473053895,6
+2011-07,Transportation,10.0,3
+2011-08,Apparel,3.5,1
+2011-08,Banking,3.831934931506849,3
+2011-08,Beer  &&  Liquor,1.9,2
+2011-08,Business Services,8.25,2
+2011-08,Candy  &&  Soda,2.625,2
+2011-08,Chemicals,4.102525684931507,2
+2011-08,Communication,3.9416666666666664,3
+2011-08,Construction Materials,7.125,1
+2011-08,Consumer Goods,1.075,2
+2011-08,Electrical Equipment,6.308772935779817,2
+2011-08,Fabricated Products,2.0,1
+2011-08,Food Products,9.75,1
+2011-08,Insurance,3.398076923076923,3
+2011-08,Measuring and Control Equipment,2.925,2
+2011-08,Medical Equipment,3.438097514340344,3
+2011-08,Other,2.6,1
+2011-08,Petroleum and Natural Gas,3.8991256476683938,6
+2011-08,"Restaurants, Hotels, Motels",4.154481132075472,3
+2011-08,Retail,6.625,1
+2011-08,Steelworks Etc,7.875,1
+2011-08,Trading,6.827673410404624,4
+2011-08,Transportation,4.75,1
+2011-08,Utilities,3.965912481352561,9
+2011-09,Aircraft,5.2875,2
+2011-09,Apparel,7.125,1
+2011-09,Business Services,8.875,1
+2011-09,Business Supplies,1.375,1
+2011-09,Chemicals,3.0,1
+2011-09,Communication,2.8850364963503647,2
+2011-09,Computers,3.93125,4
+2011-09,Construction,4.784326424870466,2
+2011-09,Defense,3.441666666666667,3
+2011-09,Electrical Equipment,4.3815339141257,7
+2011-09,Entertainment,7.75,1
+2011-09,Food Products,2.5625,2
+2011-09,Insurance,4.5625,2
+2011-09,Medical Equipment,2.0,1
+2011-09,Petroleum and Natural Gas,5.593953687821612,4
+2011-09,Pharmaceutical Products,7.25,2
+2011-09,Precious Metals,2.3249999999999997,2
+2011-09,Printing and Publishing,9.75,1
+2011-09,Retail,4.625,1
+2011-09,Rubber and Plastic Products,8.25,1
+2011-09,Utilities,4.210743801652892,2
+2011-10,Business Supplies,4.5,1
+2011-10,Chemicals,4.3125,2
+2011-10,Coal,7.875,1
+2011-10,Communication,6.793260626398211,4
+2011-10,Electrical Equipment,6.625,1
+2011-10,Entertainment,9.125,1
+2011-10,Food Products,3.5,1
+2011-10,Machinery,5.125,1
+2011-10,Measuring and Control Equipment,5.0,1
+2011-10,Petroleum and Natural Gas,5.25,1
+2011-10,Printing and Publishing,3.95,1
+2011-10,"Restaurants, Hotels, Motels",4.5,1
+2011-10,Retail,4.0,2
+2011-10,Shipping Containers,4.375,1
+2011-10,Transportation,4.163,1
+2011-11,Aircraft,3.1,1
+2011-11,Banking,4.5570080862533695,4
+2011-11,Business Services,2.375,3
+2011-11,Business Supplies,5.375,2
+2011-11,Candy  &&  Soda,2.9,2
+2011-11,Chemicals,4.08125,4
+2011-11,Communication,3.2129977460555974,5
+2011-11,Computers,5.2,2
+2011-11,Construction Materials,3.4,1
+2011-11,Consumer Goods,3.8,1
+2011-11,Entertainment,7.5,1
+2011-11,Food Products,2.175,3
+2011-11,Healthcare,7.927002583979328,2
+2011-11,Insurance,4.073524416135881,9
+2011-11,Medical Equipment,2.230442902881537,3
+2011-11,Petroleum and Natural Gas,4.405207969241523,17
+2011-11,Pharmaceutical Products,3.987899543378995,8
+2011-11,Printing and Publishing,7.375,1
+2011-11,Recreation,3.975,2
+2011-11,Retail,5.191757493188011,3
+2011-11,Trading,3.7,1
+2011-11,Transportation,3.0675816539263376,4
+2011-11,Utilities,4.4517746913580245,3
+2011-11,Wholesale,3.5,1
+2011-12,Banking,7.25,1
+2011-12,Beer  &&  Liquor,2.55,2
+2011-12,Business Services,4.625,2
+2011-12,Business Supplies,3.8666666666666667,3
+2011-12,Communication,3.1875,2
+2011-12,Computers,3.525,3
+2011-12,Consumer Goods,3.80625,4
+2011-12,Electrical Equipment,3.05,2
+2011-12,Food Products,7.875,1
+2011-12,Insurance,4.875,1
+2011-12,Machinery,5.404938271604939,2
+2011-12,Non-Metallic and Industrial Metal Mining,7.375,1
+2011-12,Petroleum and Natural Gas,6.797383367139959,5
+2011-12,Pharmaceutical Products,2.729638009049774,5
+2011-12,Retail,4.075,2
+2011-12,Trading,6.087990936555891,2
+2011-12,Utilities,4.719015957446809,3
+2012-01,Automobiles and Trucks,6.75,1
+2012-05,Precious Metals,6.875,1
+2012-11,Non-Metallic and Industrial Metal Mining,5.25,1
+2013-10,Non-Metallic and Industrial Metal Mining,3.875,1
+2016-07,Banking,2.1,1

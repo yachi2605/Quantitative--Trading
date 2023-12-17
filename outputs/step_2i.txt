@@ -1,0 +1,1 @@
+date,Portfolio 1,Portfolio 2,Portfolio 3,Portfolio 4,Portfolio 5,Portfolio 6,Portfolio 7,Portfolio 8,Portfolio 9,Portfolio 10,Portfolio 11,Portfolio 12,Portfolio 13,Portfolio 14,Portfolio 15,Portfolio 16,Portfolio 17,Portfolio 18,Portfolio 19,Portfolio 20,Portfolio 21,Portfolio 22,Portfolio 23,Portfolio 24,Portfolio 25,year,ERP,SMB,HML,rf_rate

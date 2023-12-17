@@ -1,0 +1,438 @@
+issue_month,industry,bond_sym_id
+2005-01,Insurance,5
+2005-01,Trading,3
+2005-02,Banking,3
+2005-02,Construction,3
+2005-02,Insurance,9
+2005-03,Insurance,10
+2005-03,Petroleum and Natural Gas,9
+2005-03,Trading,3
+2005-03,Utilities,6
+2005-04,Insurance,6
+2005-04,Trading,6
+2005-05,Banking,3
+2005-05,Insurance,10
+2005-05,Petroleum and Natural Gas,4
+2005-06,Communication,3
+2005-06,Construction,3
+2005-06,Insurance,12
+2005-06,Trading,3
+2005-06,Utilities,6
+2005-07,Banking,3
+2005-07,Insurance,3
+2005-08,Banking,4
+2005-08,Business Supplies,3
+2005-08,Communication,4
+2005-08,Printing and Publishing,4
+2005-08,Utilities,5
+2005-09,Insurance,11
+2005-09,Trading,6
+2005-10,Banking,3
+2005-10,Insurance,5
+2005-10,Machinery,3
+2005-11,Insurance,7
+2005-11,Petroleum and Natural Gas,3
+2005-11,Trading,3
+2005-12,Banking,4
+2005-12,Insurance,4
+2005-12,Trading,3
+2006-01,Electrical Equipment,3
+2006-01,Insurance,8
+2006-02,Pharmaceutical Products,3
+2006-03,Business Services,3
+2006-03,Communication,3
+2006-03,Insurance,10
+2006-03,Trading,4
+2006-04,Insurance,6
+2006-05,Communication,5
+2006-05,Insurance,3
+2006-05,Utilities,3
+2006-06,Banking,3
+2006-06,Insurance,10
+2006-07,Insurance,4
+2006-07,Trading,3
+2006-08,Banking,6
+2006-08,Healthcare,3
+2006-08,Insurance,6
+2006-08,Petroleum and Natural Gas,3
+2006-08,Trading,3
+2006-08,Utilities,3
+2006-09,Banking,11
+2006-09,Insurance,9
+2006-09,Trading,6
+2006-10,Banking,4
+2006-10,Insurance,12
+2006-10,Petroleum and Natural Gas,4
+2006-10,Retail,5
+2006-11,Business Services,3
+2006-11,Communication,5
+2006-11,Electrical Equipment,3
+2006-11,Insurance,6
+2006-11,Pharmaceutical Products,4
+2006-11,Trading,4
+2006-12,Banking,10
+2006-12,Chemicals,3
+2006-12,Insurance,9
+2006-12,Tobacco Products,4
+2006-12,Trading,3
+2007-01,Insurance,7
+2007-01,Petroleum and Natural Gas,3
+2007-01,Steelworks Etc,4
+2007-01,Trading,5
+2007-02,Banking,8
+2007-02,Insurance,6
+2007-02,Retail,3
+2007-03,Banking,9
+2007-03,Electrical Equipment,5
+2007-03,Insurance,18
+2007-03,Petroleum and Natural Gas,5
+2007-03,Pharmaceutical Products,6
+2007-03,Trading,5
+2007-03,Utilities,3
+2007-04,Electrical Equipment,5
+2007-04,Insurance,10
+2007-04,Petroleum and Natural Gas,5
+2007-04,Retail,4
+2007-04,Trading,3
+2007-04,Transportation,5
+2007-05,Banking,6
+2007-05,Communication,5
+2007-05,Insurance,5
+2007-05,Petroleum and Natural Gas,4
+2007-05,Retail,5
+2007-05,Steelworks Etc,5
+2007-05,Trading,4
+2007-06,Banking,8
+2007-06,Business Services,4
+2007-06,Chemicals,5
+2007-06,Construction Materials,3
+2007-06,Electrical Equipment,3
+2007-06,Healthcare,3
+2007-06,Insurance,8
+2007-06,Petroleum and Natural Gas,5
+2007-06,Trading,3
+2007-06,Utilities,8
+2007-07,Banking,4
+2007-07,Business Services,3
+2007-07,Insurance,11
+2007-07,Medical Equipment,3
+2007-07,Petroleum and Natural Gas,6
+2007-07,Precious Metals,3
+2007-07,Retail,3
+2007-08,Banking,9
+2007-08,Communication,3
+2007-08,Food Products,4
+2007-08,Insurance,9
+2007-08,Pharmaceutical Products,3
+2007-08,Retail,4
+2007-08,Trading,4
+2007-08,Transportation,3
+2007-09,Banking,12
+2007-09,Chemicals,3
+2007-09,Insurance,9
+2007-09,Petroleum and Natural Gas,4
+2007-09,Pharmaceutical Products,3
+2007-09,Retail,5
+2007-09,Trading,5
+2007-09,Transportation,4
+2007-10,Banking,5
+2007-10,Communication,7
+2007-10,Insurance,12
+2007-10,"Restaurants, Hotels, Motels",7
+2007-10,Trading,5
+2007-11,Banking,6
+2007-11,Business Services,3
+2007-11,Insurance,8
+2007-11,Pharmaceutical Products,3
+2007-11,Printing and Publishing,3
+2007-12,Banking,13
+2007-12,Communication,3
+2007-12,Electrical Equipment,7
+2007-12,Food Products,5
+2007-12,Insurance,12
+2007-12,Non-Metallic and Industrial Metal Mining,3
+2007-12,Petroleum and Natural Gas,8
+2007-12,Retail,5
+2007-12,Steelworks Etc,4
+2007-12,Utilities,3
+2008-01,Banking,4
+2008-01,Insurance,3
+2008-01,Petroleum and Natural Gas,4
+2008-01,Retail,4
+2008-01,Transportation,4
+2008-02,Communication,5
+2008-02,Insurance,13
+2008-02,Wholesale,4
+2008-03,Banking,6
+2008-03,Chemicals,4
+2008-03,Computers,3
+2008-03,Consumer Goods,3
+2008-03,Electrical Equipment,4
+2008-03,Food Products,3
+2008-03,Insurance,8
+2008-03,Petroleum and Natural Gas,6
+2008-03,Retail,4
+2008-03,Transportation,4
+2008-03,Utilities,7
+2008-03,Wholesale,6
+2008-04,Banking,8
+2008-04,Business Services,4
+2008-04,Communication,5
+2008-04,Insurance,7
+2008-04,Petroleum and Natural Gas,5
+2008-05,Banking,7
+2008-05,Communication,5
+2008-05,Electrical Equipment,6
+2008-05,Insurance,12
+2008-05,Petroleum and Natural Gas,10
+2008-05,Pharmaceutical Products,6
+2008-05,Trading,4
+2008-05,Utilities,7
+2008-06,Banking,5
+2008-06,Business Supplies,3
+2008-06,Communication,3
+2008-06,Insurance,11
+2008-06,Petroleum and Natural Gas,4
+2008-06,Pharmaceutical Products,3
+2008-06,Utilities,6
+2008-07,Banking,4
+2008-07,Electrical Equipment,4
+2008-07,Insurance,10
+2008-07,Steelworks Etc,3
+2008-08,Insurance,8
+2008-08,Petroleum and Natural Gas,4
+2008-09,Insurance,4
+2008-09,Petroleum and Natural Gas,6
+2008-10,Business Services,3
+2008-10,Petroleum and Natural Gas,4
+2008-11,Communication,5
+2008-11,Tobacco Products,3
+2008-11,Utilities,3
+2008-12,Computers,4
+2008-12,Utilities,4
+2009-01,Petroleum and Natural Gas,5
+2009-01,Retail,5
+2009-01,Transportation,3
+2009-02,Aircraft,3
+2009-02,Communication,4
+2009-02,Computers,3
+2009-02,Consumer Goods,3
+2009-02,Insurance,3
+2009-02,Petroleum and Natural Gas,9
+2009-02,Tobacco Products,3
+2009-02,Transportation,3
+2009-02,Utilities,3
+2009-03,Aircraft,3
+2009-03,Beer  &&  Liquor,3
+2009-03,Chemicals,3
+2009-03,Communication,4
+2009-03,Electrical Equipment,3
+2009-03,Medical Equipment,5
+2009-03,Petroleum and Natural Gas,7
+2009-03,Pharmaceutical Products,8
+2009-03,Utilities,8
+2009-04,Electrical Equipment,4
+2009-04,Utilities,3
+2009-05,Banking,7
+2009-05,Business Services,3
+2009-05,Chemicals,5
+2009-05,Electrical Equipment,5
+2009-05,Insurance,7
+2009-05,Petroleum and Natural Gas,7
+2009-05,Retail,3
+2009-05,Steelworks Etc,3
+2009-05,Utilities,8
+2009-06,Banking,3
+2009-06,Business Services,3
+2009-06,Communication,5
+2009-06,Insurance,7
+2009-06,Petroleum and Natural Gas,11
+2009-06,Steelworks Etc,3
+2009-06,Trading,4
+2009-06,Transportation,3
+2009-07,Aircraft,3
+2009-07,Business Services,5
+2009-07,Petroleum and Natural Gas,4
+2009-07,Retail,3
+2009-08,Chemicals,5
+2009-08,Communication,3
+2009-08,Non-Metallic and Industrial Metal Mining,3
+2009-08,Pharmaceutical Products,4
+2009-08,Trading,4
+2009-08,Utilities,5
+2009-09,Banking,5
+2009-09,Chemicals,5
+2009-09,Communication,3
+2009-09,Insurance,4
+2009-09,Machinery,3
+2009-09,Measuring and Control Equipment,3
+2009-09,Trading,4
+2009-09,Transportation,4
+2009-09,Utilities,3
+2009-10,Insurance,3
+2009-10,Petroleum and Natural Gas,6
+2009-10,Real Estate,3
+2009-11,Banking,3
+2009-11,Business Services,5
+2009-11,Chemicals,5
+2009-11,Communication,4
+2009-11,Computers,3
+2009-11,Electrical Equipment,5
+2009-11,Insurance,5
+2009-11,Petroleum and Natural Gas,5
+2009-11,Trading,3
+2009-11,Utilities,4
+2009-12,Banking,7
+2009-12,Communication,3
+2009-12,Computers,3
+2009-12,Insurance,3
+2009-12,Medical Equipment,3
+2009-12,Steelworks Etc,3
+2009-12,Trading,4
+2010-01,Beer  &&  Liquor,3
+2010-02,Food Products,4
+2010-02,Medical Equipment,3
+2010-02,Petroleum and Natural Gas,6
+2010-02,Pharmaceutical Products,3
+2010-03,Business Supplies,3
+2010-03,Communication,8
+2010-03,Pharmaceutical Products,3
+2010-03,Trading,6
+2010-04,Banking,3
+2010-04,Communication,3
+2010-04,Retail,3
+2010-05,Electrical Equipment,3
+2010-05,Insurance,3
+2010-05,Petroleum and Natural Gas,4
+2010-05,Trading,4
+2010-06,Banking,4
+2010-06,Entertainment,3
+2010-06,Insurance,4
+2010-06,Petroleum and Natural Gas,3
+2010-06,Trading,4
+2010-07,Communication,4
+2010-07,Food Products,3
+2010-07,Petroleum and Natural Gas,4
+2010-07,Pharmaceutical Products,3
+2010-07,Retail,3
+2010-07,Trading,3
+2010-08,Banking,4
+2010-08,Communication,8
+2010-08,Healthcare,4
+2010-08,Insurance,8
+2010-08,Other,4
+2010-08,Petroleum and Natural Gas,13
+2010-08,Pharmaceutical Products,3
+2010-08,Steelworks Etc,3
+2010-08,Trading,3
+2010-09,Business Services,8
+2010-09,Chemicals,4
+2010-09,Computers,7
+2010-09,Food Products,4
+2010-09,Insurance,9
+2010-09,Petroleum and Natural Gas,6
+2010-09,Pharmaceutical Products,3
+2010-09,Retail,4
+2010-09,Trading,5
+2010-09,Utilities,9
+2010-10,Banking,4
+2010-10,Beer  &&  Liquor,3
+2010-10,Business Services,4
+2010-10,Communication,3
+2010-10,Electrical Equipment,3
+2010-10,Healthcare,4
+2010-10,Petroleum and Natural Gas,3
+2010-10,Pharmaceutical Products,7
+2010-10,Retail,4
+2010-10,Utilities,3
+2010-11,Beer  &&  Liquor,3
+2010-11,Chemicals,5
+2010-11,Communication,3
+2010-11,Electrical Equipment,4
+2010-11,Insurance,6
+2010-11,Petroleum and Natural Gas,5
+2010-11,Trading,7
+2010-11,Transportation,3
+2010-11,Utilities,3
+2010-12,Banking,5
+2010-12,Electrical Equipment,3
+2010-12,Medical Equipment,4
+2010-12,Petroleum and Natural Gas,8
+2010-12,Pharmaceutical Products,3
+2011-01,Business Services,3
+2011-01,Trading,6
+2011-01,Utilities,3
+2011-02,Automobiles and Trucks,3
+2011-02,Business Services,3
+2011-02,Business Supplies,5
+2011-02,Electrical Equipment,3
+2011-02,Petroleum and Natural Gas,4
+2011-02,Wholesale,3
+2011-03,Banking,5
+2011-03,Chemicals,4
+2011-03,Communication,6
+2011-03,Computers,8
+2011-03,Insurance,4
+2011-03,Petroleum and Natural Gas,4
+2011-03,Pharmaceutical Products,3
+2011-03,Retail,5
+2011-03,Steelworks Etc,4
+2011-03,Trading,6
+2011-03,Utilities,5
+2011-04,Communication,4
+2011-04,Food Products,3
+2011-04,Retail,5
+2011-04,Trading,4
+2011-05,Business Services,4
+2011-05,Computers,4
+2011-05,Electrical Equipment,3
+2011-05,Insurance,6
+2011-05,Machinery,4
+2011-05,Other,3
+2011-05,Pharmaceutical Products,6
+2011-05,Utilities,5
+2011-06,Business Services,5
+2011-06,Communication,3
+2011-06,Healthcare,3
+2011-06,Insurance,3
+2011-06,Machinery,5
+2011-06,Measuring and Control Equipment,3
+2011-06,Petroleum and Natural Gas,3
+2011-06,Pharmaceutical Products,3
+2011-06,Trading,15
+2011-06,Utilities,4
+2011-07,Banking,4
+2011-07,Non-Metallic and Industrial Metal Mining,3
+2011-07,Trading,6
+2011-07,Transportation,3
+2011-08,Banking,3
+2011-08,Communication,3
+2011-08,Insurance,3
+2011-08,Medical Equipment,3
+2011-08,Petroleum and Natural Gas,6
+2011-08,"Restaurants, Hotels, Motels",3
+2011-08,Trading,4
+2011-08,Utilities,9
+2011-09,Computers,4
+2011-09,Defense,3
+2011-09,Electrical Equipment,7
+2011-09,Petroleum and Natural Gas,4
+2011-10,Communication,4
+2011-11,Banking,4
+2011-11,Business Services,3
+2011-11,Chemicals,4
+2011-11,Communication,5
+2011-11,Food Products,3
+2011-11,Insurance,9
+2011-11,Medical Equipment,3
+2011-11,Petroleum and Natural Gas,17
+2011-11,Pharmaceutical Products,8
+2011-11,Retail,3
+2011-11,Transportation,4
+2011-11,Utilities,3
+2011-12,Business Supplies,3
+2011-12,Computers,3
+2011-12,Consumer Goods,4
+2011-12,Petroleum and Natural Gas,5
+2011-12,Pharmaceutical Products,5
+2011-12,Utilities,3
